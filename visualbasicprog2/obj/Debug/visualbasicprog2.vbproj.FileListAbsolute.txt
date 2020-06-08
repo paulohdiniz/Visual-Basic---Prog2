@@ -1,0 +1,12 @@
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\bin\Debug\visualbasicprog2.exe.config
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\bin\Debug\visualbasicprog2.exe
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\bin\Debug\visualbasicprog2.pdb
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\bin\Debug\visualbasicprog2.xml
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.vbprojAssemblyReference.cache
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.Form1.resources
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.Resources.resources
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.vbproj.GenerateResource.cache
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.vbproj.CoreCompileInputs.cache
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.exe
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.xml
+C:\Users\phdin\Source\Repos\visualbasicprog2\visualbasicprog2\obj\Debug\visualbasicprog2.pdb
